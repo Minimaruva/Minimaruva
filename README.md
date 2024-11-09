@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladyslav yahnon</h1>
+<h1 align="center">Hi 👋, I'm Vladyslav Yahnon</h1>
 <h3 align="center">A Ukrainian student at UOS studying CompSci with AI</h3>
 
 # 💫 About Me:
