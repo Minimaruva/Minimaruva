@@ -2,7 +2,7 @@
 <h3 align="center">A Ukrainian student at UOS studying CompSci with AI</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CV chatbot<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning C, SQLite
+🔭 I’m currently working on Chrome Extension to detect AI generated images in search<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Flask, Java
 
 
 ## 🌐 Socials:
