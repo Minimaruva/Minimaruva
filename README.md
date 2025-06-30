@@ -2,7 +2,7 @@
 <h3 align="center">A Ukrainian student at UOS studying CompSci with AI</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on app to sort personal images using Zero Shot Classification and face recognition<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Java
+🔭 I’m currently working on app to sort personal images using Zero Shot Classification and face recognition<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Haskell
 
 
 ## 🌐 Socials:
