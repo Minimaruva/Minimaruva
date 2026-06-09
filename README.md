@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Yahnon</h1>
-<h3 align="center">A Ukrainian student at UOS studying CompSci with AI</h3>
+<h3 align="center">Third Year Ukrainian student at UOS studying CompSci with AI</h3>
 <h4 align="center">Volunteering at Svitlo School</h4>
 
 # 💫 About Me:
-🔭 I’m currently working on app to organise week to week module study prioritisation with topic heatmaps<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Semantic Information Retrieval & NLP Architecture
+🔭 I’m currently working on app to organise week to week module study prioritisation with topic heatmaps<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Semantic Information Retrieval, NLP Architecture and ABM (agent based modelling)
 
 
 ## 🌐 Socials:
