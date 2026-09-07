@@ -3,7 +3,7 @@
 <h4 align="center">Volunteering at Svitlo School</h4>
 
 # 💫 About Me:
-🔭 I’m currently working on app to organise week to week module study prioritisation with topic heatmaps<br>👯 I’m interested in use of AI in education<br>🌱 I’m currently learning Semantic Information Retrieval, NLP Architecture and ABM (agent based modelling)
+🔭 I'm currently working on my third year project on rationale based distillation in mental health context<br>👯 I’m interested in use of AI in education and/or other helpful areas<br>🌱 I’m currently learning Semantic Information Retrieval, NLP Architecture and ABM (agent based modelling)
 
 
 ## 🌐 Socials:
